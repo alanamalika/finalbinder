@@ -2,6 +2,6 @@ pandas
 seaborn
 folium
 ipywidgets
-numpy as np
+numpy
 matplotlib.pyplot
 matplotlib.colors
