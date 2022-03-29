@@ -1,0 +1,7 @@
+pandas
+seaborn
+folium
+ipywidgets
+numpy as np
+matplotlib.pyplot
+matplotlib.colors
