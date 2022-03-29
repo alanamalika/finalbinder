@@ -3,5 +3,4 @@ seaborn
 folium
 ipywidgets
 numpy
-matplotlib.pyplot
-matplotlib.colors
+matplotlib
